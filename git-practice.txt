@@ -1,13 +1,3 @@
 my name is niraj
 Adding Line 2
 adding line 3
-adding new line in the main branch to test merge conflicts
-Adding new line in the feature branch created
-
-Adding new line in main branch to test auto merge
-
-
-adding new line to test rebase
-Adding new line for rebase practice
-
-adding new line to test pull request
