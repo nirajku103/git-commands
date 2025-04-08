@@ -5,3 +5,6 @@ adding new line in the main branch to test merge conflicts
 Adding new line in the feature branch created
 
 Adding new line in main branch to test auto merge
+
+
+adding new line to test rebase
