@@ -2,3 +2,4 @@ my name is niraj
 Adding Line 2
 adding line 3
 Adding new line in the feature branch created
+Adding new line to test automatic merge
